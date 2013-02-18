@@ -1,0 +1,1 @@
+﻿package  {		public class GeoShape {		public var id:String = "none";		public var props:Array = new Array();		var x1:int, y1:int, x2:int, y2:int;		public function GeoShape(n:String) {			id = n;		}	}	}
